@@ -1,0 +1,8 @@
+c:\users\崇智\documents\visual studio 2015\Projects\super_form\super_form\bin\x86\Debug\super_form.exe
+c:\users\崇智\documents\visual studio 2015\Projects\super_form\super_form\bin\x86\Debug\super_form.pdb
+c:\users\崇智\documents\visual studio 2015\Projects\super_form\super_form\obj\x86\Debug\super_form.csprojResolveAssemblyReference.cache
+c:\users\崇智\documents\visual studio 2015\Projects\super_form\super_form\obj\x86\Debug\super_form.Form1.resources
+c:\users\崇智\documents\visual studio 2015\Projects\super_form\super_form\obj\x86\Debug\super_form.Properties.Resources.resources
+c:\users\崇智\documents\visual studio 2015\Projects\super_form\super_form\obj\x86\Debug\super_form.csproj.GenerateResource.Cache
+c:\users\崇智\documents\visual studio 2015\Projects\super_form\super_form\obj\x86\Debug\super_form.exe
+c:\users\崇智\documents\visual studio 2015\Projects\super_form\super_form\obj\x86\Debug\super_form.pdb

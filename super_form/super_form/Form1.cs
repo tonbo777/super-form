@@ -18,9 +18,15 @@ namespace super_form
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int i = 110;
+            UInt32 i = 0;
+            UInt32 total = 0;
 
-            MessageBox.Show("My MSGBOX YH");
+            for (i = 12; i < 15; i++)
+            {
+                total += i;
+            }
+
+            Console.WriteLine("My MSGBOX YH " + i.ToString());
         }
     }
 }

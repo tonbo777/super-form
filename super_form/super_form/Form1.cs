@@ -25,6 +25,14 @@ namespace super_form
             {
                 total += i;
             }
+            for (i = 12; i < 15; i++)
+            {
+                total += i;
+            }
+            for (i = 12; i < 15; i++)
+            {
+                total += i;
+            }
 
             Console.WriteLine("My MSGBOX YH " + i.ToString());
         }

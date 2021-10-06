@@ -24,6 +24,8 @@ namespace super_form
             for (i = 12; i < 15; i++)
             {
                 total += i;
+
+                total--;
             }
             
 

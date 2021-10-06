@@ -6,3 +6,11 @@ c:\users\崇智\documents\visual studio 2015\Projects\super_form\super_form\obj\
 c:\users\崇智\documents\visual studio 2015\Projects\super_form\super_form\obj\x86\Debug\super_form.csproj.GenerateResource.Cache
 c:\users\崇智\documents\visual studio 2015\Projects\super_form\super_form\obj\x86\Debug\super_form.exe
 c:\users\崇智\documents\visual studio 2015\Projects\super_form\super_form\obj\x86\Debug\super_form.pdb
+C:\Users\崇智\Documents\GitHub\super-form\super_form\super_form\obj\x86\Debug\super_form.exe
+C:\Users\崇智\Documents\GitHub\super-form\super_form\super_form\obj\x86\Debug\super_form.pdb
+C:\Users\崇智\Documents\GitHub\super-form\super_form\super_form\bin\x86\Debug\super_form.exe
+C:\Users\崇智\Documents\GitHub\super-form\super_form\super_form\bin\x86\Debug\super_form.pdb
+C:\Users\崇智\Documents\GitHub\super-form\super_form\super_form\obj\x86\Debug\super_form.csprojResolveAssemblyReference.cache
+C:\Users\崇智\Documents\GitHub\super-form\super_form\super_form\obj\x86\Debug\super_form.Form1.resources
+C:\Users\崇智\Documents\GitHub\super-form\super_form\super_form\obj\x86\Debug\super_form.Properties.Resources.resources
+C:\Users\崇智\Documents\GitHub\super-form\super_form\super_form\obj\x86\Debug\super_form.csproj.GenerateResource.Cache
